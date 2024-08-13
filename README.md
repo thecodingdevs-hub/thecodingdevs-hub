@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @thecodingdevs-hub
-- 👀 I’m interested in Html and css and learnign about ui/ux
-- 🌱 I’m currently learning css and js and python and html almost done
-- 💞️ I’m looking to collaborate on making a website or make a fun project
-- 📫 How to reach me from my email: thecodersdev@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am turning 13 and i want to work at google or microsoft
+### Hi there 👋, My name is Vihaan
+#### **A 13 YEAR OLD WHO LOVES PROGRAMMING**
+![**A 13 YEAR OLD WHO LOVES PROGRAMMING**](https://i.postimg.cc/xC9zpgGD/Blue-and-Gray-Illustration-Personal-Linked-In-Banner.png)
 
-<!---
-thecodingdevs-hub/thecodingdevs-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Hi there! 👋**
+
+*I'm Vihaan, a 13-year-old coding enthusiast. I've been coding for 4 years and love building websites and apps. I'm learning frontend and backend development, aiming to become a pro!*
+
+*I've created several projects and enjoy learning new things. My dream is to work at a tech giant like Apple, Microsoft, or Google, or maybe even start my own company! I also build Discord bots for fun.*
+
+**Let's create awesome stuff together!**
+
+Skills: HTML / CSS / JS / PYTHON:    **STILL LEARNING MORE**
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
