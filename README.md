@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vihaan
 ==============================================================================================================================
-(https://i.postimg.cc/xC9zpgGD/Blue-and-Gray-Illustration-Personal-Linked-In-Banner.png)
+<a href="https://app.daily.dev/vihaana"><img src="https://api.daily.dev/devcards/v2/cMng5Sgy0EuejoW4CXSla.png?type=wide&r=4t1" width="652" alt="Vihaan's Dev Card"/></a>
 
 Web Dev & Content creator
 -------------------------
